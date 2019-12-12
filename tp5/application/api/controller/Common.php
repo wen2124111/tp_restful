@@ -14,7 +14,7 @@ use think\Validate;
 
 class Common extends Controller
 {
-  protected $_request; //处理参数a
+  protected $_request; //处理参数a1
   protected $_validater; //验证请求参数
   protected $_params; //复核要求的参数
   protected $_rules = array(
